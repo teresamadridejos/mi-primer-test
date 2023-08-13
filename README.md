@@ -1,0 +1,1 @@
+¡Bienvenid@s al emocionante mundo de las pruebas en JavaScript! En este proyecto, he creado tests para funciones básicas de JavaScript utilizando el módulo de pruebas integrado en Node.js. 
